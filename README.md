@@ -8,7 +8,7 @@ My name is Ralph Nguyen, a data enthusiast passionate about extracting insights 
 
 
 
-![Ralph's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?RalphGradien=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Ralph's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RalphGradien&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/RalphGradien/HomeWorkoutRecommendations">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
