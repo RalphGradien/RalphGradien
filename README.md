@@ -1,16 +1,20 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Ralph Nguyen, a data enthusiast passionate about extracting insights from raw information. As a seasoned data analyst, I thrive on turning numbers into actionable intelligence.
 
-<!--
-**RalphGradien/RalphGradien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Exploring the data universe to uncover hidden patterns and trends is my forte. From wrangling messy datasets to crafting insightful visualizations, I enjoy every step of the data journey.<br>
+## 📫 How to reach me: 
 
-Here are some ideas to get you started:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ralph-nguyen/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RalphGradien)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Ralph's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?RalphGradien=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/RalphGradien/HomeWorkoutRecommendations">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=HomeWorkoutRecommendations&theme=radical" />
+</a>    
+<a href="https://github.com/RalphGradien/Mobile-Repair-Service-App">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=Mobile-Repair-Service-App&theme=merko" />
+</a>
