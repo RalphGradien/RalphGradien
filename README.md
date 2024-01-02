@@ -13,8 +13,23 @@ My name is Ralph Nguyen, a data enthusiast passionate about extracting insights 
 <a href="https://github.com/RalphGradien/HomeWorkoutRecommendations">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=HomeWorkoutRecommendations&theme=radical" />
+</a>
+<a href="https://github.com/RalphGradien/Crime-Prediction-in-Vancouver">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=Crime-Prediction-in-Vancouver" />
+</a>
+<a href="https://github.com/RalphGradien/Energy-and-Environmental-Data-Exploration">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=Energy-and-Environmental-Data-Exploration" />
 </a>    
+<a href="https://github.com/RalphGradien/Employee-Turnover-and-HR-data-Exploration">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=Employee-Turnover-and-HR-data-Exploration" />
 <a href="https://github.com/RalphGradien/Mobile-Repair-Service-App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=Mobile-Repair-Service-App&theme=merko" />
 </a>
+<a href="https://github.com/RalphGradien/Car-Service-Android-App">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RalphGradien&repo=Car-Service-Android-App&theme=gruvbox" />
+</a>    
